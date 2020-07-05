@@ -1,0 +1,59 @@
+*
+{
+    margin: 0px;
+    padding:0px;
+}
+.login
+{
+    background-image: url('carhd1.jpg');
+    height: 47vw;
+    background-size: cover;
+    background-position: center;
+    
+}
+.box
+{   
+    position: absolute;
+    border:.2vw solid black ;
+    border-radius: 2vw;
+    height: 18vw;
+    margin:7% 70vw 0 10vw;
+    padding: 2vw;
+    
+    
+    
+}
+.button 
+{
+    
+    background-color: rgb(195, 195, 211); 
+    border: 2px solid black;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 3vw;
+    width: 5vw;
+    margin: 1vw 5.5vw;
+    padding: .2vw;
+    
+}
+.button a
+{
+    font-size: 1.2vw;
+    text-decoration: none;
+    color: black; 
+}
+  
+.button:hover 
+{
+    background-color: red;
+    color: white;
+}
+.logo img
+{
+    float:left; 
+    width: 22%;
+    height: auto;
+    border-radius: 50%;
+    
+}
